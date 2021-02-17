@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T21:16:50.498Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.396" version="14.4.1" etag="tDu4IxaUBi4f5GE56p8s" type="github"><diagram id="bQ6c_5JSAX21XUAB96Ek">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-17T21:35:59.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.396" etag="y2dCYjt5aJqhCwiMzizc" version="14.4.1" type="github">
+  <diagram id="bQ6c_5JSAX21XUAB96Ek" name="Page-1">
+    <mxGraphModel dx="789" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yYLLM12Q20g5mHmjrvs0-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="yYLLM12Q20g5mHmjrvs0-2" value="PoiWallet Design" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yYLLM12Q20g5mHmjrvs0-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="50" y="90" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yYLLM12Q20g5mHmjrvs0-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="50" y="200" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="yYLLM12Q20g5mHmjrvs0-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="50" y="360" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yYLLM12Q20g5mHmjrvs0-7" value="$0,000.00" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=34;" vertex="1" parent="1">
+          <mxGeometry x="120" y="135" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yYLLM12Q20g5mHmjrvs0-8" value="" style="rounded=1;html=1;align=center;verticalAlign=middle;fontStyle=1;fontSize=21;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="60" y="167" width="60" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="yYLLM12Q20g5mHmjrvs0-9" value="" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;html=1;align=center;verticalAlign=middle;fontStyle=1;fontSize=25;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="167" width="60" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="yYLLM12Q20g5mHmjrvs0-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/essentials-9/128/__Plus-128.png;strokeColor=#00CC00;fillColor=#33FF33;fontSize=25;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="168.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yYLLM12Q20g5mHmjrvs0-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/essentials-9/128/__Minus-128.png;strokeColor=#00CC00;fillColor=#33FF33;fontSize=25;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="168.5" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
